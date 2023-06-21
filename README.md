@@ -1,5 +1,6 @@
 # GomokuAI
 基于极大极小值算法的五子棋AI，运用Cython加速并自带GUI界面
+
 A Gomoku AI based on The Minimax Algorithm, accelerated by using Cython with GUI
 
 # GUI
